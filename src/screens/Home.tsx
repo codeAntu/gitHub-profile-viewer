@@ -15,7 +15,7 @@ export default function Home() {
       <div className="space-y-3 sm:space-y-4 text-sm sm:text-lg">
         <p>Welcome to this GitHub profile viewer, elegantly designed with React and adorned with Tailwind CSS.</p>
         <p>This project seamlessly harnesses the GitHub API to showcase user data. You can explore it by entering a GitHub username or using the example button.</p>
-        <p>It showcases the data like the user's name, bio, profile pic , number of followers, number of following, number of public repositories , etc.. .</p>
+        <p>It showcases the data like the user's name, bio, profile pic , followers, following, repositories, etc.. .</p>
         <p>I've even added a charming Shimmer UI  and a stylish dark mode for comfortable viewing.</p>
         <p>For those eager to delve into the project's inner workings,, the <a href="https://github.com/codeAntu/gitHub-profile-viewer" target="_blank" className=" text-blue-600 underline underline-offset-2">Source Code</a> is available on my   GitHub account.</p>
 
